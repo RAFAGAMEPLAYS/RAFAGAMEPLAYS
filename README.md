@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RAFAGAMEPLAYS/RAFAGAMEPLAYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- 🌸 Animação de boas-vindas -->
+  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=30&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+perfil+eu+sou+rafael!" alt="Typing Animation">
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #  Bem-vindo(a) ao meu perfil
+
+  Ola! Seja bem-vindo(a) ao meu perfil do GitHub!  
+  Aqui compartilho meus projetos, aprendizados e coisas que gosto 💻  
+  <br>
+
+  ---
+
+  ###  Conecte-se comigo:
+
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ff9bcd?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff9bcd?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff9bcd?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:SEUEMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-ff9bcd?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  ---
+
+  ### 📊 Minhas Estatísticas
+
+  <div align="center">
+    <!-- Duas estatísticas em cima -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RAFAGAMEPLAYS&show_icons=true&theme=rose_pine&title_color=ff9bcd&text_color=ffb6d9&icon_color=ff9bcd&bg_color=141414" alt="Estatísticas do GitHub"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFAGAMEPLAYS&layout=compact&langs_count=7&theme=rose_pine&title_color=ff9bcd&text_color=ffb6d9&bg_color=141414" alt="Linguagens mais usadas"/>
+  </div>
+
+  <div align="center">
+    <!-- Uma estatística embaixo -->
+    <img height="150em" src="https://streak-stats.demolab.com?user=RAFAGAMEPLAYS&theme=rose_pine&hide_border=false&background=141414&ring=ff9bcd&fire=ff9bcd&currStreakLabel=ff9bcd" alt="GitHub Streak"/>
+  </div>
+
+  ---
+
+  ### 🐍 Cobrinha dos commits
+
+  ![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+  ---
+
+  <br>
+<img src="https://i.pinimg.com/originals/c9/c9/ff/c9c9ff2eed3dff5c3b9f7c0c033704da.gif" width="300px" alt="Gif animado rosa">
+
+  <br><br>
+
+</div>
+
