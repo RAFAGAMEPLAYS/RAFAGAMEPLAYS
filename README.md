@@ -45,9 +45,7 @@
 
   ---
 
-  ### 🐍 Cobrinha dos commits
-
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+ 
 
   ---
 
