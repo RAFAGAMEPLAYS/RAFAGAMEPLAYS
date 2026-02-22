@@ -40,8 +40,7 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RAFAGAMEPLAYS&show_icons=true&theme=radical&title_color=8A2BE2&text_color=D8BFD8&icon_color=9b59b6&bg_color=141414" alt="Estatísticas do GitHub"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFAGAMEPLAYS&layout=compact&langs_count=7&theme=radical&title_color=8A2BE2&text_color=D8BFD8&bg_color=141414" alt="Linguagens mais usadas"/>
+
 </div>
 
   <div align="center">
